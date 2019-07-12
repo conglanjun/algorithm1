@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/conglj-a/CLionProjects/algorithm/Link_clj.h
+
+C:/Users/conglj-a/CLionProjects/algorithm/List_clj.h
+malloc.h
+-
+
+C:/Users/conglj-a/CLionProjects/algorithm/Tree_clj.h
+
+C:/Users/conglj-a/CLionProjects/algorithm/main.cpp
+iostream
+-
+List_clj.h
+C:/Users/conglj-a/CLionProjects/algorithm/List_clj.h
+Link_clj.h
+C:/Users/conglj-a/CLionProjects/algorithm/Link_clj.h
+Tree_clj.h
+C:/Users/conglj-a/CLionProjects/algorithm/Tree_clj.h
+
